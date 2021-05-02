@@ -26,14 +26,10 @@
 
 <br />
 <br />
-<details>
-  https://github-readme-stats.vercel.app/api/wakatime?username=willianrod
+<summary>:Shubham's GitHub Wakatime</summary>
+<img align="left" alt="Shubham Meher's GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=shubham76201/>
 
-</details>
+<summary>:Shubham's GitHub Stats</summary>
+<img align="left" alt="Shubham Meher's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubham76201&show_icons=true&theme=radical" />
 
-<details>
-  <summary>:Shubham's GitHub Stats</summary>
 
-  <img align="left" alt="Shubham Meher's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubham76201&show_icons=true&theme=radical" />
-
-</details>
