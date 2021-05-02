@@ -26,16 +26,5 @@
 
 <br />
 <br />
-
-<details>
-  <summary>:Shubham's Wakatime </summary>
-
-  <img align="left" alt="Shubham Meher's GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=shubham76201" />
-
-</details>
-<details>
-  <summary>:Shubham's GitHub Stats</summary>
-
-  <img align="left" alt="Shubham Meher's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubham76201&show_icons=true&theme=radical" />
-
-</details>
+<p>:Shubham's GitHub Stats</p>
+<img align="left" alt="Shubham Meher's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubham76201&show_icons=true&theme=radical" />
